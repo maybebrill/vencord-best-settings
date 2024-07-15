@@ -1,3 +1,6 @@
+# IF YOU ARE TOO DUMB AND GET SCAMMED EASILY DO NOT DOWNLOAD THIS
+these settings have plugins such as AlwaysTrust so if you are rly dumb and can't do research before doing something do not download this
+
 # vencord-best-settings
 here are the best settings for vencord, if you are too lazy to enable every single plugin, correct their settings, etc.
 
